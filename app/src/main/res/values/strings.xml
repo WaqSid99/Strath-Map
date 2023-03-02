@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Indoor Navigation App</string>
+
+    <string-array name="room_name">
+        <item>Reception</item>
+        <item>ORT 1</item>
+        <item>ORT 2</item>
+        <item>ENT 1</item>
+        <item>ENT 2</item>
+        <item>ICU 1</item>
+        <item>ICU 2</item>
+        <item>ICU 3</item>
+        <item>ICU 4</item>
+        <item>Ward 1</item>
+        <item>Ward 2</item>
+        <item>Ward 3</item>
+        <item>Ward 4</item>
+        <item>Ward 5</item>
+        <item>Office 1</item>
+        <item>Office 2</item>
+        <item>Dentist 1</item>
+        <item>Dentist 2</item>
+        <item>Dentist 3</item>
+
+
+    </string-array>
+
+</resources>
